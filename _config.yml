@@ -1,0 +1,12 @@
+title: "2048 Game"
+author: "Steph @ m1cr0lab"
+description: Remake of the famous 2048 game for ESPboy.
+
+timezone: Indian/Reunion
+
+sass:
+  style: compressed
+  sourcemap: never
+
+plugins:
+  - jemoji
