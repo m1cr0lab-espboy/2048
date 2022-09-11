@@ -1,8 +1,8 @@
 # 2048 Game
 
-<img src="assets/espboy-2048-312x542.png" width="156" height="271" align="right" alt="ESPboy2">
+<img src="assets/espboy-2048-304x540-black.png" width="152" height="270" align="right" alt="ESPboy2">
 
-This game is a remake of the famous 2048 game for the ESPboy handheld.
+Here is a remake of the famous 2048 game for the ESPboy.
 
 2048 is a single-player sliding tile puzzle game written by Italian web developer Gabriele Cirulli. The game's objective is to slide numbered tiles on a grid to combine them to create a tile with the number 2048. However, one can continue to play the game after reaching the goal, creating tiles with higher numbers.
 
