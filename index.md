@@ -18,8 +18,8 @@ layout: default
         <p markdown="1">
             2048 is a single-player sliding tile puzzle game written by Italian web developer [Gabriele Cirulli][2048]. The game's objective is to slide numbered tiles on a grid to combine them to create a tile with the number 2048. However, one can continue to play the game after reaching the goal, creating tiles with higher numbers.
         </p>
-        <p markdown>
-            Use the directional buttons to drag the tiles in the desired direction and the <span class="tag">ACT</span> button to (re)start the game.
+        <p>
+            Use the directional buttons to drag the tiles in the desired direction, and the <span class="tag">ACT</span> button to (re)start the game.
         </p>
     </div>
     <div class="flasher">
@@ -37,7 +37,7 @@ layout: default
             <span style="width:0%"></span>
         </div>
     </div>
-    <div class="resources">
+    <div class="source">
         <p class="iconify github" markdown="1">
             [Source code][source]
         </p>
