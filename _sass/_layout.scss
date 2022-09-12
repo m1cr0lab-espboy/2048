@@ -199,11 +199,10 @@ code {
     position: relative;
     width: 272px;
     height: 512px;
-    background-image: url('../images/espboy-272x512.png');
+    background-image: url('../images/espboy-black-544x1024.png');
     background-size: contain;
     background-repeat: no-repeat;
-    image-rendering: pixelated;
-    filter: drop-shadow(0 4px 8px #000);
+    filter: drop-shadow(0 4px 8px rgba(#000, .75));
 
     $original_screen_size: 184px;
     $small_screen_size:    128px;
